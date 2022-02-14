@@ -1,0 +1,4 @@
+
+android: PLATFORM_NAME='chrome'
+hlg: ENVIRONMENT='hlg'
+report: --format AllureCucumber::CucumberFormatter  --out allure-results/android/

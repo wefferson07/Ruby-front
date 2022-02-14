@@ -1,0 +1,25 @@
+source 'https://rubygems.org'
+
+# frozen_string_literal: true
+
+# apos a versao 2.4.0 do cucumber o allure-reporter passa a nao funcionar
+
+gem 'allure-cucumber'
+gem 'appium_console'
+gem 'appium_lib'
+gem 'appium_flutter_finder'
+gem 'cucumber', '3.1.2'
+gem 'ffi'
+gem 'pry'
+gem 'rake'
+gem 'redcarpet'
+gem 'rspec-expectations'
+gem 'rubocop', require: false
+gem 'selenium-webdriver'
+gem 'test-unit'
+gem 'yard'
+gem 'yard-cucumber'
+gem 'rspec'
+gem 'rest-client'
+gem 'clipboard'
+gem 'cpf_cnpj', '~> 0.5.0'
